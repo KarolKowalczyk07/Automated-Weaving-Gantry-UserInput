@@ -1,1 +1,2 @@
-# Automated-Weaving-Gantry-UserInput
+# Automated-Weaving-Gantry-User-Input
+This project involved debugging all the technical issues faced with a Reptier-Host based gantry system (e.g. smoothieboard, wiring, Teknic Cables, soldering, multimeter continuity testing, etc.) as well as creating the initial user input software for the gantry. The python file has 3 functions, allowing a command in any 3D direction with a certain number of units and repeatability, simple vertical movements, and creating a lattice pattern based on user-specified geometrical dimensions. The purpose is to automate weaving high compressive-strength carbon fiber lattices, used to support aeronautical wall structures.
